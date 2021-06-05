@@ -1,1 +1,1 @@
-API de estabelecimentos encontra-se na pasta /para-o-lar :)
+API de estabelecimentos encontra-se na pasta /para_o_lar :)
